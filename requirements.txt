@@ -16,4 +16,4 @@ requests
 rpi.gpio
 six
 urllib3
-werkzeug
+werkzeug==0.15.5
